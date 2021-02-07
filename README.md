@@ -27,5 +27,3 @@ Preview
 ![screen shot](notetaker.png)
 
 
-Video
-![video] (notetaker.mov)
