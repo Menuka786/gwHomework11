@@ -25,5 +25,5 @@ Run npm install to install all dependencies. To use the application locally, run
 Preview
 
 ![screen shot](notetaker.png)
-![screen shot] (notetaker2.png)
+
 
