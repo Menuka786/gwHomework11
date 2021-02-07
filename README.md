@@ -2,7 +2,9 @@ Note Taker
 
 Description
 
-This is a note taking  application. This app can be used to write and same notes. This application uses an express backedn and save and retrieve note data from a file. 
+This is a note taking  application. This app can be used to write and same notes. This application uses an express backend and save and retrieve note data from a file. 
+
+Heroku link https://fast-refuge-06082.herokuapp.com/
 
 Technology used
 
