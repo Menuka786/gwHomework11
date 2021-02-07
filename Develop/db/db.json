@@ -1,6 +1,16 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Menuka",
+    "text": "This is my first note\n",
+    "id": "81368b95-ddd0-4381-8a42-e755175c314c"
+  },
+  {
+    "title": "Second note",
+    "text": "This is my second note",
+    "id": "97b48de3-724d-43fc-9ec6-30b944456c28"
+  }
 ]
